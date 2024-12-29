@@ -1,0 +1,9 @@
+/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/02_simple_qt_demo.dir
+/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/edit_cache.dir
+/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/list_install_components.dir
+/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install.dir
+/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/local.dir
+/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/strip.dir
+/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/02_simple_qt_demo_autogen_timestamp_deps.dir
+/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/02_simple_qt_demo_autogen.dir

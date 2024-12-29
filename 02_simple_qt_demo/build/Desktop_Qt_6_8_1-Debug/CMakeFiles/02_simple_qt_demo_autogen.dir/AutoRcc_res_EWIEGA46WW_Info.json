@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/02_simple_qt_demo_autogen",
+	"CMAKE_BINARY_DIR" : "/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo",
+	"CMAKE_SOURCE_DIR" : "/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/02_simple_qt_demo_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo/pic/\u767b\u9646.png",
+		"/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo/pic/qq.png",
+		"/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo/pic/\u6ce8\u518c.png"
+	],
+	"LOCK_FILE" : "/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/02_simple_qt_demo_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "/home/dongchao980612/Qt/6.8.1/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/02_simple_qt_demo_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/dongchao980612/\u684c\u9762/QtXunwei/02_simple_qt_demo/res.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

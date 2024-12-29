@@ -1,0 +1,13 @@
+# ninja log v6
+13779	13898	1735451191686243962	CMakeFiles/02_simple_qt_demo.dir/02_simple_qt_demo_autogen/EWIEGA46WW/qrc_res.cpp.o	d21a242317a9b975
+12	39	1735452591308214418	02_simple_qt_demo_autogen/mocs_compilation.cpp	3009f85d1cd2c882
+1684	1708	1735451179610084683	/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/02_simple_qt_demo_autogen/EWIEGA46WW/qrc_res.cpp	a7716452598f92b1
+12	39	1735452591308214418	02_simple_qt_demo_autogen/timestamp	3009f85d1cd2c882
+950	9930	1735452240460788607	CMakeFiles/02_simple_qt_demo.dir/LoginDialog.cpp.o	19e284bb4128f010
+12	39	1735452591308214418	/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/02_simple_qt_demo_autogen/timestamp	3009f85d1cd2c882
+40	5241	1735452591336214009	CMakeFiles/02_simple_qt_demo.dir/main.cpp.o	1fea4052d0133eff
+1684	1708	1735451179610084683	02_simple_qt_demo_autogen/EWIEGA46WW/qrc_res.cpp	a7716452598f92b1
+40	5388	1735452591336214009	CMakeFiles/02_simple_qt_demo.dir/mainwindow.cpp.o	4a7558534a8be8e4
+933	8240	1735452582824340064	CMakeFiles/02_simple_qt_demo.dir/02_simple_qt_demo_autogen/mocs_compilation.cpp.o	1e4c4dc69875a0a5
+12	39	1735452591308214418	/home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/02_simple_qt_demo_autogen/mocs_compilation.cpp	3009f85d1cd2c882
+5389	6305	1735452596684136491	02_simple_qt_demo	77620b5dc1de367
