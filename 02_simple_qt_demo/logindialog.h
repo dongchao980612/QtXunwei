@@ -2,9 +2,10 @@
 #define LOGINDIALOG_H
 
 #include <QDialog>
-
-namespace Ui {
-class LoginDialog;
+#include <QMessageBox>
+namespace Ui
+{
+    class LoginDialog;
 }
 
 class LoginDialog : public QDialog
@@ -14,6 +15,13 @@ class LoginDialog : public QDialog
 public:
     explicit LoginDialog(QWidget *parent = nullptr);
     ~LoginDialog();
+
+private slots:
+    void on_pushButton_zhuce_clicked();
+
+    void on_pushButton_denglu_clicked();
+    void LoginDialog_login();
+
 
 private:
     Ui::LoginDialog *ui;

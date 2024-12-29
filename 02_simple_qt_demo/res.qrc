@@ -3,5 +3,10 @@
         <file>pic/qq.png</file>
         <file>pic/登陆.png</file>
         <file>pic/注册.png</file>
+        <file>pic/开关-关.png</file>
+        <file>pic/开关-开.png</file>
+        <file>pic/设置.png</file>
+        <file>pic/电灯-关.png</file>
+        <file>pic/电灯-开.png</file>
     </qresource>
 </RCC>

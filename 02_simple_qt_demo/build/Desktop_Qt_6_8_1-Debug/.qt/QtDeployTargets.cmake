@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_02_simple_qt_demo_FILE /home/dongchao980612/桌面/QtXunwei/02_simple_qt_demo/build/Desktop_Qt_6_8_1-Debug/02_simple_qt_demo)
-set(__QT_DEPLOY_TARGET_02_simple_qt_demo_TYPE EXECUTABLE)
